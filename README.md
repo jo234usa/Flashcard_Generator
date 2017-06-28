@@ -56,4 +56,4 @@ No license.
 
 ### Acknowledgments
 
-The teaching staff @RutgersCodingBootcamp
+The teaching staff @RutgersCodingBootcamp :point_right::straight_ruler:
